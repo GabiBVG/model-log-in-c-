@@ -1,0 +1,11 @@
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\bin\Debug\Model Login Form ANA.exe.config
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\bin\Debug\Model Login Form ANA.exe
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\bin\Debug\Model Login Form ANA.pdb
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model Login Form ANA.csprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model_Login_Form_ANA.Form1.resources
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model_Login_Form_ANA.Login.resources
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model_Login_Form_ANA.Properties.Resources.resources
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model Login Form ANA.csproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model Login Form ANA.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model Login Form ANA.exe
+C:\Users\Gabi\source\repos\Model Login Form ANA\Model Login Form ANA\obj\Debug\Model Login Form ANA.pdb
